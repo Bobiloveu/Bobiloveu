@@ -1,27 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,10,20&height=200&section=header&text=✦%20SPACE%20STATION%20✦&fontSize=60&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=280&section=header&text=BOBILOVEU&fontSize=60&animation=twinkling&fontAlignY=45&desc=>>>>+SYSTEM+CORE+ACTIVATED&descSize=18&descAlignY=68&descColor=00F2FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF71CE&center=true&vCenter=true&width=500&height=50&lines=CORE+POWER+100%25;GRAVITY:+STABLE;SCANNING+LIFEFORMS...;WELCOME+ABOARD." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=00F2FF&center=true&vCenter=true&width=600&lines=>>>>+LOADING+NEURAL+NETWORKS...;>>>>+ESTABLISHING+CONNECTION...;[+RUNNING+IN+STEALTH+MODE+];>>>>+just+someone+who+writes+code_" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./pixel-card.svg" width="80%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bobiloveu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=00F2FF&icon_color=00F2FF&text_color=484f58&include_all_commits=true&count_private=true&hide_title=true"/>
+  &nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobiloveu&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=00F2FF&text_color=484f58&langs_count=5&hide_title=true"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=120&section=footer&text=%E2%96%AE%E2%96%AF%E2%96%AE%E2%96%AF%E2%96%AE%E2%96%AF&fontSize=40&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rocket,robot,planets,moon,ufo" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bobiloveu&theme=dracula&area=true&hide_border=true&bg_color=00000000&color=FF71CE" width="95%" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b19cd9&height=80&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bobiloveu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Bobiloveu/count.svg?font=Orbitron&color=b19cd9" />
+  <img src="https://profile-counter.glitch.me/Bobiloveu/count.svg?font=Source+Code+Pro&color=00F2FF" />
 </p>
