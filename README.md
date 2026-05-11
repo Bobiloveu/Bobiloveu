@@ -9,9 +9,11 @@
 <br/>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bobiloveu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=00F2FF&icon_color=00F2FF&text_color=484f58&include_all_commits=true&count_private=true&hide_title=true"/>
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobiloveu&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=00F2FF&text_color=484f58&langs_count=5&hide_title=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bobiloveu&theme=dark&hide_border=true&background=0a0a0f&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF&sideLabels=484f58&dates=484f58&sideNums=00F2FF&currStreakNum=ffffff" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bobiloveu&theme=github_dark" width="90%"/>
 </p>
 
 <br/>
