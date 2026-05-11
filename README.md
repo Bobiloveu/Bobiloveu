@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Bobiloveu/count.svg?font=Source+Code+Pro&color=00F2FF" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bobiloveu.Bobiloveu&left_color=0a0a0f&right_color=00828a&left_text=visitors&labelColor=0a0a0f" />
 </p>
